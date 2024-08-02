@@ -1,0 +1,47 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.button {
+    padding: 20px;
+    margin: 5px;
+}
+
+.BtnP {
+    padding: 24px;
+}
+
+.zeroP {
+    padding: 20px 39px;
+}
+
+.main-div {
+    border: 1px solid black;
+    width: fit-content;
+    margin: 20px;
+    border-radius: 10px;
+    background: gray;
+}
+
+.input-field {
+    padding: 10px 25px;
+    background: ghostwhite;
+    border: 1px solid gray;
+    border-radius: 12px;
+    color: black;
+    font-size: 19px;
+}
+
+.input-field:focus {
+    outline: none;
+}
+
+.eqBtnP {
+    padding: 24px 36px;
+}
+
+.acBtnP {
+    padding: 24px 28px;
+}
